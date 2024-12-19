@@ -185,7 +185,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameOverText: {fileID: 427600508}
-  scoreText: {fileID: 0}
+  scoreText: {fileID: 2097184875}
   gameOver: 0
   scrollSpeed: -1.5
 --- !u!1 &427600508
@@ -638,8 +638,8 @@ Transform:
   m_GameObject: {fileID: 1133148409}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 26.7304, y: -2.9, z: -0.015471354}
-  m_LocalScale: {x: -4.064877, y: 1.0748674, z: 1}
+  m_LocalPosition: {x: 37.4186, y: -2.9, z: -0.015471354}
+  m_LocalScale: {x: -5.1087375, y: 1.0748674, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 551287677}
@@ -1406,8 +1406,8 @@ Transform:
   m_GameObject: {fileID: 2066729961}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 47.83, y: 30.817, z: 0}
-  m_LocalScale: {x: 1.1563567, y: 1.2555732, z: 1}
+  m_LocalPosition: {x: 50.6816, y: 30.947, z: 0}
+  m_LocalScale: {x: 1.4572407, y: 1.2302105, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 655037195}
